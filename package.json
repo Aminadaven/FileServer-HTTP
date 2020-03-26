@@ -1,0 +1,19 @@
+{
+  "name": "file-server",
+  "version": "1.0.1",
+  "description": "A site that can upload files.",
+  "main": "fileServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "File",
+    "Server"
+  ],
+  "author": "Aminadav",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^1.2.1"
+  },
+  "devDependencies": {}
+}
